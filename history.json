@@ -4,7 +4,8 @@
     "theme-Tank Mobs-Fast Mobs-3-5",
     "theme-Undead-Illagers-7-5",
     "army-blaze-2-stray-2",
-    "theme-Melee Mobs-Illagers-9-7"
+    "theme-Melee Mobs-Illagers-9-7",
+    "ow-ne-7-blaze,blaze,enderman,husk,iron_golem,piglin,piglin_brute,pillager,stray,vindicator,wither_skeleton,zombie,zombified_piglin,zombified_piglin"
   ],
   "posted": [
     {
@@ -22,6 +23,10 @@
     {
       "id": "PHkC71Ssaxg",
       "title": "7 Illagers vs 9 Melee Mobs - Who Wins?"
+    },
+    {
+      "id": "vf3NANZF_h0",
+      "title": "7 Overworld Mobs vs 7 Nether Mobs - Who Wins?"
     }
   ]
 }
