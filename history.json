@@ -3,7 +3,8 @@
     "ow-ne-8-blaze,blaze,blaze,creeper,drowned,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,spider,stray,vindicator,wither_skeleton,zombified_piglin",
     "theme-Tank Mobs-Fast Mobs-3-5",
     "theme-Undead-Illagers-7-5",
-    "army-blaze-2-stray-2"
+    "army-blaze-2-stray-2",
+    "theme-Melee Mobs-Illagers-9-7"
   ],
   "posted": [
     {
@@ -17,6 +18,10 @@
     {
       "id": "KjVQBUVxHks",
       "title": "2 Blazes vs 2 Strays - Who Wins?"
+    },
+    {
+      "id": "PHkC71Ssaxg",
+      "title": "7 Illagers vs 9 Melee Mobs - Who Wins?"
     }
   ]
 }
