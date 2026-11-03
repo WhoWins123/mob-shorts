@@ -6,7 +6,8 @@
     "army-blaze-2-stray-2",
     "theme-Melee Mobs-Illagers-9-7",
     "ow-ne-7-blaze,blaze,enderman,husk,iron_golem,piglin,piglin_brute,pillager,stray,vindicator,wither_skeleton,zombie,zombified_piglin,zombified_piglin",
-    "theme-Undead-Fast Mobs-7-4"
+    "theme-Undead-Fast Mobs-7-4",
+    "ow-ne-8-blaze,blaze,drowned,enderman,husk,iron_golem,piglin,piglin,piglin,piglin_brute,skeleton,spider,stray,wither_skeleton,zombie,zombified_piglin"
   ],
   "posted": [
     {
@@ -32,6 +33,10 @@
     {
       "id": "TxCr_RO7GSw",
       "title": "7 Undead vs 4 Fast Mobs - Who Wins?"
+    },
+    {
+      "id": "-i3V1FEWPTg",
+      "title": "8 Nether Mobs vs 8 Overworld Mobs - Who Wins?"
     }
   ]
 }
