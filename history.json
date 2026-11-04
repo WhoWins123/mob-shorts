@@ -10,7 +10,8 @@
     "ow-ne-8-blaze,blaze,drowned,enderman,husk,iron_golem,piglin,piglin,piglin,piglin_brute,skeleton,spider,stray,wither_skeleton,zombie,zombified_piglin",
     "ow-ne-4-blaze,creeper,enderman,piglin,spider,vindicator,wither_skeleton,zombified_piglin",
     "ow-ne-6-blaze,blaze,drowned,husk,iron_golem,piglin,piglin_brute,spider,stray,vindicator,wither_skeleton,zombified_piglin",
-    "theme-Tank Mobs-Melee Mobs-4-8"
+    "theme-Tank Mobs-Melee Mobs-4-8",
+    "theme-Tank Mobs-Undead-3-7"
   ],
   "posted": [
     {
@@ -52,6 +53,10 @@
     {
       "id": "kqcncI83zfA",
       "title": "8 Melee Mobs vs 4 Tank Mobs - Who Wins?"
+    },
+    {
+      "id": "Z2t8lB2xzr8",
+      "title": "7 Undead vs 3 Tank Mobs - Who Wins?"
     }
   ]
 }
