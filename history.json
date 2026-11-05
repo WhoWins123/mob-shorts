@@ -14,7 +14,8 @@
     "theme-Tank Mobs-Undead-3-7",
     "army-blaze-6-piglin-5",
     "theme-Fast Mobs-Melee Mobs-4-6",
-    "army-skeleton-2-zombified_piglin-1"
+    "army-skeleton-2-zombified_piglin-1",
+    "theme-Tank Mobs-Fast Mobs-3-6"
   ],
   "posted": [
     {
@@ -72,6 +73,10 @@
     {
       "id": "Jv74mq-r_qQ",
       "title": "2 Skeletons vs 1 Zombified Piglin - Who Wins?"
+    },
+    {
+      "id": "xVg31_vDx6s",
+      "title": "3 Tank Mobs vs 6 Fast Mobs - Who Wins?"
     }
   ]
 }
