@@ -16,7 +16,8 @@
     "theme-Fast Mobs-Melee Mobs-4-6",
     "army-skeleton-2-zombified_piglin-1",
     "theme-Tank Mobs-Fast Mobs-3-6",
-    "theme-Tank Mobs-Fast Mobs-3-4"
+    "theme-Tank Mobs-Fast Mobs-3-4",
+    "army-vindicator-2-piglin-3"
   ],
   "posted": [
     {
@@ -82,6 +83,10 @@
     {
       "id": "HkI5EOx3HiM",
       "title": "3 Tank Mobs vs 4 Fast Mobs - Who Wins?"
+    },
+    {
+      "id": "iQEt3kOuwz8",
+      "title": "2 Vindicators vs 3 Piglins - Who Wins?"
     }
   ]
 }
