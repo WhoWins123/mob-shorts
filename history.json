@@ -19,7 +19,8 @@
     "theme-Tank Mobs-Fast Mobs-3-4",
     "army-vindicator-2-piglin-3",
     "theme-Fast Mobs-Tank Mobs-4-2",
-    "army-wither_skeleton-5-piglin-6"
+    "army-wither_skeleton-5-piglin-6",
+    "ow-ne-6-blaze,creeper,enderman,iron_golem,piglin,piglin,piglin_brute,pillager,spider,stray,wither_skeleton,zombified_piglin"
   ],
   "posted": [
     {
@@ -97,6 +98,10 @@
     {
       "id": "ZQVGS0M0qeQ",
       "title": "6 Piglins vs 5 Wither Skeletons - Who Wins?"
+    },
+    {
+      "id": "q7LJq6_idVk",
+      "title": "6 Nether Mobs vs 6 Overworld Mobs - Who Wins?"
     }
   ]
 }
