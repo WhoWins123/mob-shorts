@@ -18,7 +18,8 @@
     "theme-Tank Mobs-Fast Mobs-3-6",
     "theme-Tank Mobs-Fast Mobs-3-4",
     "army-vindicator-2-piglin-3",
-    "theme-Fast Mobs-Tank Mobs-4-2"
+    "theme-Fast Mobs-Tank Mobs-4-2",
+    "army-wither_skeleton-5-piglin-6"
   ],
   "posted": [
     {
@@ -92,6 +93,10 @@
     {
       "id": "U38D4lTUDM4",
       "title": "4 Fast Mobs vs 2 Tank Mobs - Who Wins?"
+    },
+    {
+      "id": "ZQVGS0M0qeQ",
+      "title": "6 Piglins vs 5 Wither Skeletons - Who Wins?"
     }
   ]
 }
