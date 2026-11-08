@@ -21,7 +21,8 @@
     "theme-Fast Mobs-Tank Mobs-4-2",
     "army-wither_skeleton-5-piglin-6",
     "ow-ne-6-blaze,creeper,enderman,iron_golem,piglin,piglin,piglin_brute,pillager,spider,stray,wither_skeleton,zombified_piglin",
-    "ow-ne-6-blaze,creeper,drowned,husk,iron_golem,piglin,piglin_brute,piglin_brute,skeleton,stray,wither_skeleton,zombified_piglin"
+    "ow-ne-6-blaze,creeper,drowned,husk,iron_golem,piglin,piglin_brute,piglin_brute,skeleton,stray,wither_skeleton,zombified_piglin",
+    "theme-Fast Mobs-Tank Mobs-4-3"
   ],
   "posted": [
     {
@@ -107,6 +108,10 @@
     {
       "id": "sLJVndlQxZA",
       "title": "6 Nether Mobs vs 6 Overworld Mobs - Who Wins?"
+    },
+    {
+      "id": "rSbM3ZvG3yY",
+      "title": "4 Fast Mobs vs 3 Tank Mobs - Who Wins?"
     }
   ]
 }
