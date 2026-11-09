@@ -24,7 +24,8 @@
     "ow-ne-6-blaze,creeper,drowned,husk,iron_golem,piglin,piglin_brute,piglin_brute,skeleton,stray,wither_skeleton,zombified_piglin",
     "theme-Fast Mobs-Tank Mobs-4-3",
     "ow-ne-7-blaze,creeper,iron_golem,piglin,piglin,piglin_brute,pillager,skeleton,spider,stray,wither_skeleton,wither_skeleton,zombie,zombified_piglin",
-    "ow-ne-6-blaze,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,spider,stray,vindicator,wither_skeleton,zombified_piglin"
+    "ow-ne-6-blaze,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,spider,stray,vindicator,wither_skeleton,zombified_piglin",
+    "ow-ne-6-blaze,iron_golem,piglin,piglin_brute,pillager,skeleton,spider,vindicator,wither_skeleton,wither_skeleton,zombie,zombified_piglin"
   ],
   "posted": [
     {
@@ -121,6 +122,10 @@
     },
     {
       "id": "iGk3dbWVHe0",
+      "title": "6 Nether Mobs vs 6 Overworld Mobs - Who Wins?"
+    },
+    {
+      "id": "9RvXhCnduaQ",
       "title": "6 Nether Mobs vs 6 Overworld Mobs - Who Wins?"
     }
   ]
