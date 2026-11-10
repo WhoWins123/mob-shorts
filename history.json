@@ -28,7 +28,8 @@
     "ow-ne-6-blaze,iron_golem,piglin,piglin_brute,pillager,skeleton,spider,vindicator,wither_skeleton,wither_skeleton,zombie,zombified_piglin",
     "army-piglin_brute-8-iron_golem-6",
     "theme-Illagers-Undead-5-7",
-    "ow-ne-8-blaze,blaze,creeper,enderman,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,stray,vindicator,wither_skeleton,zombie,zombified_piglin,zombified_piglin"
+    "ow-ne-8-blaze,blaze,creeper,enderman,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,stray,vindicator,wither_skeleton,zombie,zombified_piglin,zombified_piglin",
+    "army-piglin-5-zombified_piglin-5"
   ],
   "posted": [
     {
@@ -142,6 +143,10 @@
     {
       "id": "CYATj2cgv-8",
       "title": "8 Nether Mobs vs 8 Overworld Mobs - Who Wins?"
+    },
+    {
+      "id": "mTgb7CR8Lvk",
+      "title": "5 Piglins vs 5 Zombified Piglins - Who Wins?"
     }
   ]
 }
