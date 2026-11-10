@@ -26,7 +26,8 @@
     "ow-ne-7-blaze,creeper,iron_golem,piglin,piglin,piglin_brute,pillager,skeleton,spider,stray,wither_skeleton,wither_skeleton,zombie,zombified_piglin",
     "ow-ne-6-blaze,husk,iron_golem,piglin,piglin,piglin_brute,skeleton,spider,stray,vindicator,wither_skeleton,zombified_piglin",
     "ow-ne-6-blaze,iron_golem,piglin,piglin_brute,pillager,skeleton,spider,vindicator,wither_skeleton,wither_skeleton,zombie,zombified_piglin",
-    "army-piglin_brute-8-iron_golem-6"
+    "army-piglin_brute-8-iron_golem-6",
+    "theme-Illagers-Undead-5-7"
   ],
   "posted": [
     {
@@ -132,6 +133,10 @@
     {
       "id": "zZPl75QlerU",
       "title": "8 Piglin Brutes vs 6 Iron Golems - Who Wins?"
+    },
+    {
+      "id": "xbv28wI-UN4",
+      "title": "7 Undead vs 5 Illagers - Who Wins?"
     }
   ]
 }
