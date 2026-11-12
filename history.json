@@ -33,7 +33,8 @@
     "ow-ne-5-blaze,drowned,husk,iron_golem,piglin,piglin_brute,stray,vindicator,wither_skeleton,zombified_piglin",
     "theme-Tank Mobs-Ranged Mobs-3-7",
     "ow-ne-6-blaze,drowned,husk,iron_golem,piglin,piglin,piglin_brute,pillager,skeleton,vindicator,wither_skeleton,zombified_piglin",
-    "ow-ne-4-blaze,drowned,enderman,iron_golem,piglin,piglin_brute,zombie,zombified_piglin"
+    "ow-ne-4-blaze,drowned,enderman,iron_golem,piglin,piglin_brute,zombie,zombified_piglin",
+    "theme-Melee Mobs-Tank Mobs-9-4"
   ],
   "posted": [
     {
@@ -167,6 +168,10 @@
     {
       "id": "w86DujEp3_Q",
       "title": "4 Nether Mobs vs 4 Overworld Mobs - Who Wins?"
+    },
+    {
+      "id": "ZjZviVNRA6A",
+      "title": "9 Melee Mobs vs 4 Tank Mobs - Who Wins?"
     }
   ]
 }
