@@ -35,7 +35,8 @@
     "ow-ne-6-blaze,drowned,husk,iron_golem,piglin,piglin,piglin_brute,pillager,skeleton,vindicator,wither_skeleton,zombified_piglin",
     "ow-ne-4-blaze,drowned,enderman,iron_golem,piglin,piglin_brute,zombie,zombified_piglin",
     "theme-Melee Mobs-Tank Mobs-9-4",
-    "ow-ne-5-blaze,drowned,husk,iron_golem,piglin,piglin_brute,skeleton,spider,wither_skeleton,zombified_piglin"
+    "ow-ne-5-blaze,drowned,husk,iron_golem,piglin,piglin_brute,skeleton,spider,wither_skeleton,zombified_piglin",
+    "theme-Fast Mobs-Illagers-4-5"
   ],
   "posted": [
     {
@@ -177,6 +178,10 @@
     {
       "id": "KWBrgf2XhL4",
       "title": "5 Overworld Mobs vs 5 Nether Mobs - Who Wins?"
+    },
+    {
+      "id": "yHyF7mDUqro",
+      "title": "5 Illagers vs 4 Fast Mobs - Who Wins?"
     }
   ]
 }
