@@ -37,7 +37,8 @@
     "theme-Melee Mobs-Tank Mobs-9-4",
     "ow-ne-5-blaze,drowned,husk,iron_golem,piglin,piglin_brute,skeleton,spider,wither_skeleton,zombified_piglin",
     "theme-Fast Mobs-Illagers-4-5",
-    "army-zombified_piglin-10-piglin-11"
+    "army-zombified_piglin-10-piglin-11",
+    "army-iron_golem-6-enderman-11"
   ],
   "posted": [
     {
@@ -187,6 +188,10 @@
     {
       "id": "wjfGJ4houkw",
       "title": "11 Piglins vs 10 Zombified Piglins - Who Wins?"
+    },
+    {
+      "id": "h_4o532h4o8",
+      "title": "6 Iron Golems vs 11 Endermen - Who Wins?"
     }
   ]
 }
