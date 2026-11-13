@@ -36,7 +36,8 @@
     "ow-ne-4-blaze,drowned,enderman,iron_golem,piglin,piglin_brute,zombie,zombified_piglin",
     "theme-Melee Mobs-Tank Mobs-9-4",
     "ow-ne-5-blaze,drowned,husk,iron_golem,piglin,piglin_brute,skeleton,spider,wither_skeleton,zombified_piglin",
-    "theme-Fast Mobs-Illagers-4-5"
+    "theme-Fast Mobs-Illagers-4-5",
+    "army-zombified_piglin-10-piglin-11"
   ],
   "posted": [
     {
@@ -182,6 +183,10 @@
     {
       "id": "yHyF7mDUqro",
       "title": "5 Illagers vs 4 Fast Mobs - Who Wins?"
+    },
+    {
+      "id": "wjfGJ4houkw",
+      "title": "11 Piglins vs 10 Zombified Piglins - Who Wins?"
     }
   ]
 }
