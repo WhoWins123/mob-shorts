@@ -1,0 +1,309 @@
+id: stress-age
+top: In this world,
+rule: you look as *old* as you feel
+mood: mystery
+school | W:neutral, kid:happy | | Happy people look young forever. Stressed people get gray hair and wrinkles overnight.
+school | old:sad, crowd:smirk | | W was twelve, but he looked like an old man. He worried about everything.
+house | old:sad, mom:sad | | Homework. Money. His mom working three jobs. Every worry added a wrinkle.
+park | old:neutral, kid:happy | | One day, a little kid asked him to play tag. Just for five minutes.
+park | W:happy, kid:happy | sparkle | He laughed so hard that ten years fell right off his face. He has played tag every day since.
+---
+id: echo-words
+top: In this world,
+rule: everything you say *comes back* to you one year later
+mood: mystery
+school | W:neutral, crowd:neutral | | Say something mean today, and next year you hear it whispered in your own ear.
+school | rival:smirk, W:sad | | The mean kids could not sleep at night. Their own words kept them awake.
+house | W:sad | | But W had a terrible year. Nothing went right, and he wanted to give up.
+house | W:neutral | | A year ago, he had whispered something to himself on the worst day of his life.
+house | W:happy | sparkle | Tonight, it came back. You are going to be okay. You always are. And he was.
+---
+id: colors-cost
+top: In this world,
+rule: *colors* cost money
+mood: sad
+city | boss:smirk, W:sad | | Rich people see the world in full color. Poor people only see gray.
+house | W:sad, mom:sad | | W had never seen a color in his life. He did not even know what blue looked like.
+shop | W:neutral, old:neutral | | He saved for three years and bought one single color. Just one.
+park | W:shock, girl:happy | flash | He did not pick gold or red. He picked the color of his little sister's eyes.
+park | W:happy, girl:happy | hearts | Everyone said it was a waste. W said it was the only color he ever needed.
+---
+id: extra-hour
+top: In this world,
+rule: everyone gets *one extra hour* a day that nobody else can see
+mood: mystery
+house | W:neutral | | During your hour, time stops for everyone else. Most people use it to sleep or play games.
+school | W:neutral, friend:neutral | | W did not use his. He saved them. Every single day, for ten years.
+city | crowd:scared, cop:scared | shake | Then a bridge collapsed with a hundred people on it. There was no time to save them.
+city | W:angry | flash | W used every hour he had saved. Ten years of hours, all at once.
+city | W:happy, crowd:happy | confetti | When time started again, everyone was standing safe on the ground. Nobody knew how.
+---
+id: frown-tax
+top: In this town,
+rule: you pay a *tax* every time you frown
+mood: happy
+street | crowd:happy, cop:smirk | | One frown costs a dollar. The whole town smiles all day long, even when they are sad.
+house | W:sad, mom:happy | | W's mom smiled every day, even when the bills piled up.
+house | W:shock, mom:cry | rain | One night, W found her crying in the kitchen, with a jar of all the money she had paid.
+house | W:angry, cop:shock | | The next day, W frowned in front of the whole town, on purpose. Then everyone frowned with him.
+street | crowd:happy, W:happy | confetti | The tax was cancelled. And now, when people smile, they actually mean it.
+---
+id: cheap-wish
+top: In this town,
+rule: the wishing well grants the wish of whoever throws in the *cheapest thing*
+mood: mystery
+park | boss:smirk, crowd:neutral | | Rich people throw in diamonds. Poor people throw in pennies. Nobody ever wins.
+park | rival:smirk, W:sad | | Once a year, the well grants one wish. Everyone tries to throw in the cheapest thing possible.
+park | crowd:neutral, kid:neutral | | Rocks. Leaves. Dust. Nothing works.
+park | W:neutral, girl:sad | | W did not throw anything. He just wished for his sick friend to get better.
+park | W:happy, girl:happy | sparkle | The well lit up. Because nothing is cheaper than nothing. And she was better the next morning.
+---
+id: sing-talk
+top: In this world,
+rule: you can only talk by *singing*
+mood: happy
+school | crowd:happy, teacher:happy | | Every conversation sounds like a musical. Ordering pizza takes three verses.
+school | W:sad, bully:smirk | | But W was tone deaf. Every time he opened his mouth, dogs howled.
+school | W:sad | | So he stopped talking. For years, he only wrote notes.
+stage | W:scared, crowd:neutral | | At the school show, his note to the crowd fell on the floor. He had to sing.
+stage | W:happy, crowd:happy | confetti | It was the worst song anyone had ever heard. And the whole crowd sang it back to him.
+---
+id: sunday-gravity
+top: In this world,
+rule: gravity *flips upside down* every Sunday
+mood: happy
+street | crowd:shock | shake | Every Sunday at noon, everything falls up. You have to tie yourself to the ground.
+house | W:neutral, dad:neutral | | W's family strapped everything down. Beds. Chairs. Even the cat.
+house | W:shock, dad:scared | flash | One Sunday, W's dad forgot to tie himself down. He started falling into the sky.
+street | W:angry, dad:scared | | W grabbed a rope, jumped, and caught him by the shoe at the last second.
+street | W:happy, dad:happy | sparkle | Now every Sunday, they hang upside down together and eat breakfast on the ceiling.
+---
+id: zero-luck
+top: In this world,
+rule: everyone is born with a *luck number*
+mood: mystery
+hospital | doctor:neutral, mom:happy | | One hundred means you win everything. Zero means nothing ever goes your way.
+school | W:sad, crowd:smirk | | W's number was zero. He tripped every day. He lost every game.
+school | W:neutral, teacher:neutral | | So he never counted on luck. He practiced. He studied. He worked twice as hard.
+city | rival:shock, W:smirk | | At the championship, the lucky kid finally had a bad day. And he had never practiced once.
+city | W:happy, crowd:happy | confetti | W won. Zero luck. All skill.
+---
+id: true-mirror
+top: In this world,
+rule: mirrors show who you *really* are
+mood: mystery
+house | rival:smirk | | A liar sees a snake. A brave person sees a lion. Nobody can hide from a mirror.
+school | W:sad, bully:smirk | | W was scared to look. He thought he would see something terrible.
+school | W:scared | | For years, he covered every mirror he walked past.
+house | W:shock, mom:happy | | One day, his mom pulled the cover off while he was crying.
+house | W:happy, mom:happy | sparkle | In the mirror was just a kid. A normal, good kid. That was all he ever needed to see.
+---
+id: hug-charge
+top: In this world,
+rule: your phone only charges when you get a *hug*
+mood: happy
+street | crowd:happy, girl:happy | hearts | No plugs. No cables. One hug, one hundred percent.
+school | W:sad, crowd:neutral | | W was new in town. His phone was at one percent, and he had no friends to hug.
+school | W:neutral, friend:sad | | He saw another kid at lunch with a dead phone, sitting all alone.
+school | W:happy, friend:shock | | So W walked over and gave him a hug. Both of their phones beeped.
+school | W:happy, friend:happy | hearts | One hundred percent. And now, they never need a charger.
+---
+id: robot-teacher
+top: In this world,
+rule: every teacher is a *robot*
+mood: mystery
+school | robot:neutral, crowd:sad | | Robot teachers never smile. They never laugh. They just give tests.
+school | W:sad, robot:neutral | | W was failing everything. The robot said, you are broken. Please repair yourself.
+school | robot:shock, W:shock | flash | One day, lightning hit the school. The robot glitched.
+school | robot:happy, W:shock | | It sat next to W and said, you are not broken. You just learn differently.
+school | W:happy, robot:happy | sparkle | They fixed every robot after that, except one. W's teacher hides the glitch to this day.
+---
+id: thought-clouds
+top: In this world,
+rule: everyone's *thoughts* float above their head
+mood: mystery
+school | crowd:shock, W:neutral | | Every thought shows up as a little cloud. No secrets. No surprises.
+school | W:love, girl:neutral | hearts | Everyone could see W's cloud. It always said her name.
+school | W:sad, crowd:smirk | | People laughed. So W learned to think about nothing. Just blank. For a whole year.
+park | girl:smirk, W:shock | | One day, she walked up and said, your cloud has been empty for a year. I missed my name.
+park | W:love, girl:love | hearts | Then her cloud said his name. It had the whole time. She just wore a hat.
+---
+id: lost-room
+top: In this world,
+rule: everything you *lose* ends up in one secret room
+mood: mystery
+house | W:sad, kid:cry | | Socks. Keys. Toys. Every lost thing in the world goes somewhere, and nobody knows where.
+house | W:shock | flash | One day, W found a door in his closet that was not there before.
+house | W:shock | sparkle | Behind it were mountains of lost stuff. Billions of socks.
+house | W:sad | | And on top of the pile, he found a teddy bear with his name on it. He lost it when he was three.
+house | W:happy, kid:happy | | He spent the next year giving everything back to its owners. Especially the socks.
+---
+id: famous-visible
+top: In this world,
+rule: only *famous* people are visible
+mood: mystery
+city | rival:smirk, crowd:neutral | | If nobody knows your name, you are invisible. W had been invisible his whole life.
+city | W:sad, cop:neutral | | Nobody saw him. Nobody heard him. He waved at people, but they looked right through him.
+city | W:shock, kid:scared | shake | One day, a little kid ran into the street. A truck was coming.
+city | W:angry, kid:shock | flash | W dove and pushed him out of the way.
+city | W:happy, crowd:shock | confetti | The video went everywhere. By morning, the whole world could see him.
+---
+id: thousand-words
+top: In this world,
+rule: everyone only gets *one thousand words* a day
+mood: sad
+school | crowd:neutral, teacher:neutral | | Use them all, and you are silent until tomorrow. Most people waste them on gossip.
+school | W:neutral, bully:smirk | | W never talked much. He saved his words every day, but they did not carry over.
+house | W:sad, mom:sad | | Then his mom left for a trip, and her plane was delayed for hours.
+house | W:sad, mom:happy | | When she finally called, she only had one word left for the whole day.
+house | W:happy, mom:happy | hearts | She said, love. W said all nine hundred ninety nine of his back.
+---
+id: love-plant
+top: In this world,
+rule: every kid has a *plant* that grows when they feel loved
+mood: sad
+school | crowd:happy, kid:happy | | Some kids have trees. Some have whole jungles in their rooms.
+house | W:sad | | W's plant was a tiny sprout. It had not grown in years.
+house | W:neutral, old:happy | | His grandpa visited and noticed. He did not say anything. He just started visiting every day.
+house | W:happy, old:happy | | They fished. They built model trains. They told bad jokes.
+house | W:happy, old:happy | sparkle | One morning, W woke up in a forest. It grew through his roof.
+---
+id: drawings-real
+top: In this world,
+rule: anything you *draw* becomes real for one day
+mood: happy
+school | kid:happy, crowd:shock | | Kids draw dragons, castles and spaceships. But only for twenty four hours.
+school | W:sad, rival:smirk | | W was the worst artist ever. His drawings looked like spaghetti.
+park | W:neutral, girl:sad | | But one day, a little girl was crying because her dog had run away.
+park | W:happy, girl:shock | | W drew the dog. It looked terrible, but it came to life and sniffed the air.
+park | W:happy, girl:happy | hearts | Then it ran and found the real dog. Ugly drawings have good noses.
+---
+id: talk-once
+top: In this world,
+rule: animals can only *talk once* in their whole life
+mood: sad
+house | W:happy, kid:happy | | Most animals use their one sentence for something silly. More treats, please.
+house | W:happy | | W's dog Biscuit had been with him for fourteen years. He never said a word.
+house | W:sad, dad:sad | | Biscuit got old and slow. The vet said it was almost time.
+house | W:cry | rain | On his last night, Biscuit lifted his head and finally spoke.
+house | W:cry, mom:sad | sparkle | He said, thank you for picking me. W said, you picked me first.
+---
+id: sad-snow
+top: In this town,
+rule: it *snows* whenever a kid is sad
+mood: sad
+street | crowd:shock | snow | One sad kid makes a few snowflakes. A whole sad school makes a blizzard.
+street | crowd:scared, W:shock | snow | One summer, it started snowing and would not stop.
+house | W:neutral, kid:cry | snow | W followed the snow to a tiny house where a kid sat alone. It was his birthday. Nobody came.
+house | W:happy, crowd:happy | confetti | So W called everyone in town. Fifty kids showed up with cake.
+street | W:happy, kid:happy | sparkle | The snow stopped. The sun came out. And the kid finally smiled.
+---
+id: alien-grades
+top: In this world,
+rule: *aliens* grade the human race every hundred years
+mood: mystery
+space | alien:neutral, robot:neutral | | If humanity fails, the aliens take Earth. This year, the score was looking really bad.
+city | alien:angry, crowd:scared | shake | Wars. Trash. Mean comments. The aliens were ready to give Earth an F.
+city | alien:neutral, W:neutral | | Then one alien saw W sharing his lunch with a stranger.
+city | alien:shock, W:happy | | It followed him all day. W helped an old lady, fed a cat, and picked up trash.
+space | alien:happy, W:happy | sparkle | The aliens gave Earth a C minus. Because of one kid. Good enough to stay.
+---
+id: baby-stars
+top: In this world,
+rule: a new *star* appears in the sky for every baby born
+mood: sad
+night | mom:happy, dad:happy | sparkle | When a baby is born, a star lights up. When someone dies, their star falls.
+night | W:sad, old:sad | | W's grandpa was very old. His star was flickering.
+night | W:sad, old:happy | | They sat outside every night and watched it together.
+night | W:cry | dark | One night, the star fell. W cried until he fell asleep.
+night | W:shock, mom:happy | sparkle | The next morning, his baby cousin was born. And her star was right where grandpa's used to be.
+---
+id: memory-food
+top: In this world,
+rule: food tastes like your *memories*
+mood: sad
+shop | crowd:happy, boss:smirk | | Happy people taste candy in everything. Sad people taste ashes.
+house | W:sad, mom:sad | | After his dad left, every meal tasted like nothing to W.
+shop | W:neutral, old:happy | | An old chef told him, if you want food to taste good again, make new memories.
+park | W:happy, friend:happy | | So W tried new things. Camping. Painting. Bad karaoke with friends.
+house | W:happy, mom:happy | hearts | One night, his mom made plain pasta. It tasted like the best day of his life.
+---
+id: sell-shadow
+top: In this world,
+rule: you can *sell your shadow*
+mood: mystery
+city | boss:smirk, W:neutral | | Shadows are worth a lot of money. But without one, you slowly fade away.
+house | W:sad, mom:sad | | W's family needed money for rent. So he sold his shadow.
+house | W:scared | dark | Every day, he got a little more see-through.
+city | W:angry, boss:shock | flash | He found the man who bought it. He had a whole closet full of stolen shadows.
+city | W:happy, crowd:happy | confetti | W opened the closet. Every shadow in the city flew home at once.
+---
+id: life-remote
+top: In this world,
+rule: everyone gets a *remote* to fast forward their life
+mood: sad
+school | W:neutral, kid:happy | | Bored at school? Skip it. Bad day? Skip it. But you can never rewind.
+school | W:sad, friend:happy | | W skipped everything boring. Homework. Chores. Family dinners.
+house | old:sad | | One day, he pressed the button too long. He woke up old, in an empty house.
+house | old:cry | rain | He did not remember any of it. Not one birthday. Not one hug.
+house | W:shock, mom:happy | flash | Then he woke up. It was a dream. He threw the remote in the trash and went to dinner.
+---
+id: statue-crown
+top: In this kingdom,
+rule: whoever takes the *crown* off the old statue becomes king
+mood: mystery
+castle | rival:angry, crowd:neutral | | For a hundred years, the strongest people in the world have tried. It will not move.
+castle | boss:angry, crowd:shock | shake | Bodybuilders pulled. Machines pulled. Nothing.
+castle | W:neutral, kid:sad | | W was just there to sell lemonade. A little kid asked him, why does the statue look sad?
+castle | W:neutral | | W climbed up and asked the statue, do you want to keep your crown? It said, no. I am tired.
+castle | king:happy, crowd:happy | confetti | The crown fell into his hands. Nobody had ever just asked.
+---
+id: smart-dogs
+top: In this world,
+rule: dogs that eat *homework* get smarter
+mood: happy
+house | kid:happy, crowd:happy | | Every dog in town is a genius. Some of them have jobs.
+house | W:neutral | | W's dog was the dumbest dog alive. Because W always did his homework.
+house | W:smirk | | So for one week, W let him eat everything. Math. Science. History.
+office | W:shock, boss:shock | flash | The dog became the smartest being on Earth and started a company.
+office | W:happy, boss:sad | money | He hired W as his boss. W never had to do homework again.
+---
+id: random-birthday
+top: In this world,
+rule: on your birthday, you turn a *random* age
+mood: happy
+house | W:shock, mom:happy | | One year you are ten. Next year, eighty. Next year, three.
+house | old:sad | | On his birthday, W turned ninety. Then he had to go to school like that.
+school | old:neutral, crowd:smirk | | Everyone laughed at the old man in the backpack.
+school | old:happy, teacher:shock | | But W had a whole lifetime of wisdom in his head now. He aced every test.
+house | kid:happy, mom:happy | confetti | Next birthday, he turned five. He forgot everything. He was so happy about it.
+---
+id: mood-elevator
+top: In this building,
+rule: the *elevator* takes you to whatever floor matches your mood
+mood: mystery
+office | crowd:neutral, boss:happy | | Happy people go to the top floor. Sad people go to the basement.
+office | W:sad | dark | W pressed the button. The elevator went straight to the basement. It was cold and dark.
+office | W:shock, old:sad | | But he was not alone. A janitor sat there every day. Nobody ever asked how he was.
+office | W:happy, old:happy | | W sat with him and they talked for hours. About everything.
+office | W:happy, old:happy | sparkle | When they got back in the elevator, it went all the way to the roof.
+---
+id: no-phones
+top: In this world,
+rule: *phones* are illegal
+mood: mystery
+street | crowd:happy, cop:neutral | | People talk face to face. They read books. They look at the sky.
+house | W:shock | flash | One day, W found an old phone in his grandpa's attic. It still worked.
+house | W:smirk | | He started using it in secret. Games. Videos. Hours a day.
+house | W:sad, friend:sad | | He stopped going outside. His friends stopped knocking.
+park | W:happy, friend:happy | sparkle | One day, the phone died for good. W walked outside. His friends were still there, waiting.
+---
+id: broken-robot
+top: In this world,
+rule: every kid gets a *robot* best friend
+mood: happy
+school | crowd:happy, robot:happy | | Fancy robots that do your homework, cook dinner, and fly you to school.
+school | W:sad, robot:sad | | W's family could only afford a broken one. It could not fly. It could not cook. It just made beeping noises.
+school | rival:smirk, W:sad | | The other kids laughed. Their robots laughed too.
+city | crowd:shock, robot:angry | shake | One day, a virus hit every robot in the city. They all went crazy. Except one.
+city | W:happy, robot:happy | sparkle | W's robot was too broken to get the virus. They saved the city together.
