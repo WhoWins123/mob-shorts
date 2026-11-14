@@ -56,9 +56,9 @@ jobs:
           YT_PRIVACY: ${{ vars.YT_PRIVACY || 'public' }}
         run: |
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.post }}" = "true" ]; then
-            python -m story.make --post
+            python -m bot.make --post
           else
-            python -m story.make
+            python -m bot.make
           fi
 
       - name: Keep a copy of the video
