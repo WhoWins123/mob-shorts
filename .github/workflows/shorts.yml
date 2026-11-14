@@ -2,7 +2,6 @@ name: Make and post a Short
 
 on:
   schedule:
-    # 3 Shorts a day (times are UTC): ~9:23am, 2:23pm and 6:23pm Pacific (standard time)
     - cron: "23 17 * * *"
     - cron: "23 22 * * *"
     - cron: "23 2 * * *"
@@ -14,7 +13,7 @@ on:
         default: false
 
 permissions:
-  contents: write   # lets it save history.json so matchups don't repeat
+  contents: write
 
 concurrency:
   group: shorts
@@ -22,7 +21,7 @@ concurrency:
 
 jobs:
   short:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -38,16 +37,6 @@ jobs:
           sudo apt-get install -y -qq ffmpeg espeak-ng
           pip install -r requirements.txt
 
-      - name: Find the latest Minecraft version
-        id: mc
-        run: echo "version=$(python -c 'from bot.assets import latest_release; print(latest_release())')" >> "$GITHUB_OUTPUT"
-
-      - name: Cache Minecraft textures
-        uses: actions/cache@v4
-        with:
-          path: .texture-cache
-          key: mc-client-${{ steps.mc.outputs.version }}
-
       - name: Make the video (and post it)
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
@@ -56,9 +45,9 @@ jobs:
           YT_PRIVACY: ${{ vars.YT_PRIVACY || 'public' }}
         run: |
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.post }}" = "true" ]; then
-            python -m bot.make --post
+            python -m bot.story.make --post
           else
-            python -m bot.make
+            python -m bot.story.make
           fi
 
       - name: Keep a copy of the video
@@ -69,7 +58,7 @@ jobs:
           path: out/short.mp4
           retention-days: 7
 
-      - name: Save matchup history
+      - name: Save history
         if: success()
         run: |
           git config user.name "shorts-bot"
